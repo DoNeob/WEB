@@ -1,0 +1,27 @@
+a {
+  color: black;
+}
+
+h1 {
+  position : relative;
+  font-size: 400%;
+  text-align: center;
+  border: pink 10px double;
+  width : 900px;
+  left : 160px;
+}
+
+.menu_link {
+  font-size: 30px;
+}
+
+div {
+  margin: 1px;
+  padding: 1px;
+}
+
+#block {
+  border: 3px pink double;
+  grid-template-columns: 150px 1fr;
+  display: grid;
+}
